@@ -1,0 +1,23 @@
+{
+  "name": "search-app",
+  "version": "1.0.0",
+  "description": "search-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paakcmd/search-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paakcmd/search-app/issues"
+  },
+  "homepage": "https://github.com/paakcmd/search-app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
